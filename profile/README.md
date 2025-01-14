@@ -1,4 +1,4 @@
-Lontarlabs
+Lontarlab
 ---
-Lontar Lab Foundation is a Software Company located in Bandung.
-a Company behind Thawaf app. Part of Kuwais Group.
+Lontarlab is a Software Company located in Bandung\
+a company behind Thawaf app & part of Kuwais Group.
